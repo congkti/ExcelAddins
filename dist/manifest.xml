@@ -10,7 +10,7 @@
   <HighResolutionIconUrl DefaultValue="https://excel-addins-alpha.vercel.app/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://excel-addins-alpha.vercel.app</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
